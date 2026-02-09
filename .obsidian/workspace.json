@@ -26,17 +26,18 @@
             "id": "76bab14b0497612e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "动手学深度学习_李沐/卷积神经网络.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "卷积神经网络"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,11 +209,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8149330c3b06f88c",
+  "active": "76bab14b0497612e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "动手学深度学习_李沐/卷积神经网络.md",
+    "动手学深度学习_李沐",
     "OOP/Lec12 Iterators.md",
     "读论文/具身/ODYSSEY.md",
-    "conflict-files-obsidian-git.md",
     "读论文/具身",
     "读论文",
     "未命名.base",
@@ -251,10 +254,8 @@
     "ADS/秋3周：红黑树 & B+树.md",
     "语言学/语料库与语言数据处理/9.17 概论.md",
     "语言学/语料库与语言数据处理/10.11 语料库软件.md",
-    "ADS/image/lec5",
     "创建链接.md",
     "语言学/语料库与语言数据处理/9.24 语料库介绍.md",
-    "OOP/秋3周：Memory Model.md",
-    "OOP/秋2周：STL基本操作.md"
+    "OOP/秋3周：Memory Model.md"
   ]
 }
