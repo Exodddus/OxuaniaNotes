@@ -1,42 +1,14 @@
 {
   "main": {
-    "id": "4881368758d9a71a",
+    "id": "47ca6d2f05fd9c60",
     "type": "split",
     "children": [
       {
-        "id": "154bdde8e3c40c93",
+        "id": "56786bb03e0f2bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "8149330c3b06f88c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OOP/Lec12 Iterators.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lec12 Iterators"
-            }
-          },
-          {
-            "id": "76bab14b0497612e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读论文/具身/ODYSSEY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ODYSSEY"
-            }
-          },
-          {
-            "id": "13e0505d93b9973d",
+            "id": "f49661d0306072c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,22 +21,21 @@
               "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "088989c013c3235a",
+    "id": "d531cbccef596d4a",
     "type": "split",
     "children": [
       {
-        "id": "820ec6738062c719",
+        "id": "47c86cf14733e89e",
         "type": "tabs",
         "children": [
           {
-            "id": "b33e80bd9e9c3885",
+            "id": "f617d95303adc640",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +48,7 @@
             }
           },
           {
-            "id": "f60a7fce257dbf2a",
+            "id": "ad74c93a3b3738b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "a92c59bd05c41b4c",
+            "id": "f4742b3c87100307",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,24 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "1395571581d57c08",
+    "id": "2971b37c3c5a928c",
     "type": "split",
     "children": [
       {
-        "id": "800d95eb52179e2d",
+        "id": "a7233d1f48a7ac41",
         "type": "tabs",
         "children": [
           {
-            "id": "835433f4d1356601",
+            "id": "8359f8bb53f24d42",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADS/秋6周：Devide & Conquer 分治.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "秋6周：Devide & Conquer 分治 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "e44776086061dd83",
+            "id": "1480b2c508b72ea7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADS/秋6周：Devide & Conquer 分治.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "秋6周：Devide & Conquer 分治 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "8794c0123291b062",
+            "id": "863f931f9df204af",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -167,32 +135,35 @@
             }
           },
           {
-            "id": "f4fa8d1d7b3b8a7b",
+            "id": "4520cd8b6f42c5cd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "5fb74e1bd5d63c3d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADS/秋6周：Devide & Conquer 分治.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "秋6周：Devide & Conquer 分治 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "1910a7e4833481d6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "0deb96fa06cd0a62",
+            "id": "0da57e51b0a8b892",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -206,70 +177,70 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
-      "bases:新建数据库": false,
       "workspaces:管理工作区布局": false,
       "publish:发布更改": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13e0505d93b9973d",
+  "active": "f49661d0306072c2",
   "lastOpenFiles": [
-    "读论文/具身/ODYSSEY.md",
+    "动手学深度学习_李沐/卷积神经网络.md",
     "conflict-files-obsidian-git.md",
-    "OOP/Lec12 Iterators.md",
+    "读论文/具身/ODYSSEY.md",
+    "动手学深度学习_李沐",
+    "XuanDiary/未命名.md",
+    "XuanDiary",
+    "MachineLearning_DavidWoodruff/image/lec1/Strategies.png",
+    "OOP/image/List结构体基本操作.png",
+    "欢迎.md",
     "读论文/具身",
     "读论文",
-    "未命名.base",
-    "OOP/期末复习笔记.md",
-    "ADS/秋6周：Devide & Conquer 分治.md",
-    "OOP/Lec7 Polymorphism.md",
-    "OOP/Lec6 组合 & 继承.md",
-    "MachineLearning_DavidWoodruff/Lec2 Linear Programming.md",
-    "ADS/秋7周：Dynamic Programming.md",
-    "ADS/image/Pasted image 20251112201345.png",
-    "未命名 1.md",
-    "ADS/秋5周：Backtracking 回溯算法.md",
-    "ADS/冬1周：Greedy Algorithm.md",
-    "欢迎.md",
-    "未命名 1.base",
-    "未命名 2.base",
-    "ADS/秋2周：AVL树 & Splay树 & 摊还分析.md",
-    "ADS/秋1周：算法概论 & AVL树.md",
-    "MachineLearning_DavidWoodruff/Lec3 Linear Programming II.md",
-    "MachineLearning_DavidWoodruff/Lec1 Game Theory and Randomized Algorithms.md",
-    "ADS/image/AVL的LR.png",
-    "ADS/image/lec7/最优二叉搜索树.png",
-    "Pasted image 20251028102436.png",
-    "ADS/image/lec7/解时间复杂度的递归树法.png",
-    "ADS/image/lec7/动规矩阵乘法顺序.png",
-    "2025-10-28.md",
-    "ADS/image/lec7/时间复杂度递推代换法.png",
-    "MachineLearning_DavidWoodruff/image/lec2",
-    "ADS/image/lec7",
-    "MachineLearning_DavidWoodruff/image/lec2/Pasted image 20251018090348.png",
-    "MachineLearning_DavidWoodruff/image/lec2/Pasted image 20251025010254.png",
-    "MachineLearning_DavidWoodruff/image/lec2/Pasted image 20251025010409.png",
-    "ADS/image/lec6",
-    "ADS/image/错题订正",
-    "ADS/秋4周：Leftist Heaps & Skew Heaps & Binomial Heap.md",
-    "ADS/秋3周：红黑树 & B+树.md",
+    "OOP/Lec12 Iterators.md",
+    "语言学/语言学概论/秋一周：A brief introduction to linguistics.md",
+    "语言学/语料库与语言数据处理/9.24 语料库介绍.md",
     "语言学/语料库与语言数据处理/9.17 概论.md",
     "语言学/语料库与语言数据处理/10.11 语料库软件.md",
-    "ADS/image/lec5",
-    "创建链接.md",
-    "语言学/语料库与语言数据处理/9.24 语料库介绍.md",
+    "语言学/语言学概论",
+    "语言学/语料库与语言数据处理",
+    "语言学",
     "OOP/秋3周：Memory Model.md",
-    "OOP/秋2周：STL基本操作.md"
+    "OOP/秋2周：STL基本操作.md",
+    "OOP/期末复习笔记.md",
+    "OOP/image",
+    "OOP/Lec7 Polymorphism.md",
+    "OOP/Lec6 组合 & 继承.md",
+    "OOP",
+    "MachineLearning_DavidWoodruff/image/lec2/Pasted image 20251025010409.png",
+    "MachineLearning_DavidWoodruff/image/lec2/Pasted image 20251025010254.png",
+    "MachineLearning_DavidWoodruff/image/lec2/Pasted image 20251018090348.png",
+    "MachineLearning_DavidWoodruff/image/lec1/RewardFunction.png",
+    "MachineLearning_DavidWoodruff/image/lec1/Payoff_Matrix.png",
+    "MachineLearning_DavidWoodruff/image/lec2",
+    "MachineLearning_DavidWoodruff/Lec3 Linear Programming II.md",
+    "MachineLearning_DavidWoodruff/Lec2 Linear Programming.md",
+    "MachineLearning_DavidWoodruff/Lec1 Game Theory and Randomized Algorithms.md",
+    "ADS/秋7周：Dynamic Programming.md",
+    "ADS/秋6周：Devide & Conquer 分治.md",
+    "ADS/秋5周：Backtracking 回溯算法.md",
+    "ADS/秋4周：Leftist Heaps & Skew Heaps & Binomial Heap.md",
+    "ADS/秋3周：红黑树 & B+树.md",
+    "ADS/秋2周：AVL树 & Splay树 & 摊还分析.md",
+    "ADS/秋1周：算法概论 & AVL树.md",
+    "ADS/冬1周：Greedy Algorithm.md",
+    "ADS/image/错题订正/左倾堆1-9.png",
+    "ADS/image/错题订正/二项堆3-7.png",
+    "ADS/image/lec7/解时间复杂度的递归树法.png"
   ]
 }
