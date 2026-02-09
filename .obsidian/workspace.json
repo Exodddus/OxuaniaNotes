@@ -4,37 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "154bdde8e3c40c93",
+        "id": "054197b8bc9aab30",
         "type": "tabs",
         "children": [
           {
-            "id": "8149330c3b06f88c",
+            "id": "c98ab6d6efe0703c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "读论文/具身/ODYSSEY 2.9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "ODYSSEY 2.9"
             }
           },
           {
-            "id": "76bab14b0497612e",
+            "id": "3435edfbb5f7a7b7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "动手学深度学习_李沐/卷积神经网络.md",
-                "bFile": "动手学深度学习_李沐/卷积神经网络.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "读论文/具身/ODYSSEY 2.9.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 卷积神经网络"
+              "icon": "lucide-file",
+              "title": "ODYSSEY 2.9"
             }
           }
         ],
@@ -187,13 +185,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "31e506490274c710",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,16 +215,18 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76bab14b0497612e",
+  "active": "31e506490274c710",
   "lastOpenFiles": [
+    "读论文/具身/VLingNav 2.5.md",
+    "读论文/具身/ODYSSEY 2.9.md",
     "动手学深度学习_李沐/卷积神经网络.md",
     "conflict-files-obsidian-git.md",
     "动手学深度学习_李沐",
     "OOP/Lec12 Iterators.md",
-    "读论文/具身/ODYSSEY.md",
     "读论文/具身",
     "读论文",
     "未命名.base",
@@ -256,7 +266,6 @@
     "语言学/语料库与语言数据处理/9.17 概论.md",
     "语言学/语料库与语言数据处理/10.11 语料库软件.md",
     "创建链接.md",
-    "语言学/语料库与语言数据处理/9.24 语料库介绍.md",
-    "OOP/秋3周：Memory Model.md"
+    "语言学/语料库与语言数据处理/9.24 语料库介绍.md"
   ]
 }
