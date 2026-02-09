@@ -26,14 +26,15 @@
             "id": "76bab14b0497612e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "动手学深度学习_李沐/卷积神经网络.md",
-                "mode": "source",
-                "source": false
+                "aFile": "动手学深度学习_李沐/卷积神经网络.md",
+                "bFile": "动手学深度学习_李沐/卷积神经网络.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "卷积神经网络"
+              "icon": "diff",
+              "title": "Diff: 卷积神经网络"
             }
           }
         ],
@@ -211,8 +212,8 @@
   },
   "active": "76bab14b0497612e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "动手学深度学习_李沐/卷积神经网络.md",
+    "conflict-files-obsidian-git.md",
     "动手学深度学习_李沐",
     "OOP/Lec12 Iterators.md",
     "读论文/具身/ODYSSEY.md",
