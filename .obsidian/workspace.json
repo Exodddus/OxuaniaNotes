@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读论文/具身/ODYSSEY 2.9.md",
+                "file": "动手学深度学习_李沐/卷积神经网络.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ODYSSEY 2.9"
+              "title": "卷积神经网络"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 256.5
   },
   "right": {
     "id": "1395571581d57c08",
@@ -206,6 +206,7 @@
   },
   "active": "99a480580bd0e9ff",
   "lastOpenFiles": [
+    "读论文/具身/ODYSSEY 2.9.md",
     "读论文/具身/A Survey on VLA for Embodied AI.md",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210122116.png",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210122052.png",
@@ -214,7 +215,6 @@
     "读论文/具身/image/A Survey on VLA",
     "读论文/具身/image",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210114401.png",
-    "读论文/具身/ODYSSEY 2.9.md",
     "读论文/具身/VLingNav 2.5.md",
     "动手学深度学习_李沐/卷积神经网络.md",
     "conflict-files-obsidian-git.md",
