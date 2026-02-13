@@ -247,19 +247,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cd92a3ae5fe602e",
+  "active": "b33e80bd9e9c3885",
   "lastOpenFiles": [
+    "未命名.md",
+    "深度学习",
+    "强化学习/动手学强化学习/第4章 动态规划.md",
     "强化学习/动手学强化学习/image",
     "强化学习/动手学强化学习/image/CliffWalking.jpg",
     "Pasted image 20260213161311.png",
-    "强化学习/动手学强化学习/第4章 动态规划.md",
     "强化学习/动手学强化学习/第3章 马尔可夫过程.md",
     "读论文/具身/ODYSSEY 2.9.md",
     "强化学习/动手学强化学习/第2章 多臂老虎机.md",
     "读论文/具身/Being-H0.5.md",
     "强化学习/动手学强化学习",
     "强化学习",
-    "动手学深度学习_李沐/卷积神经网络.md",
+    "深度学习/动手学深度学习_李沐/卷积神经网络.md",
     "读论文/具身/A Survey on VLA for Embodied AI.md",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210122116.png",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210122052.png",
@@ -269,7 +271,7 @@
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210114401.png",
     "读论文/具身/VLingNav 2.5.md",
     "conflict-files-obsidian-git.md",
-    "动手学深度学习_李沐",
+    "深度学习/动手学深度学习_李沐",
     "OOP/Lec12 Iterators.md",
     "读论文/具身",
     "读论文",
@@ -284,8 +286,6 @@
     "ADS/秋5周：Backtracking 回溯算法.md",
     "ADS/冬1周：Greedy Algorithm.md",
     "欢迎.md",
-    "未命名 1.base",
-    "未命名 2.base",
     "ADS/秋2周：AVL树 & Splay树 & 摊还分析.md",
     "ADS/秋1周：算法概论 & AVL树.md",
     "MachineLearning_DavidWoodruff/Lec3 Linear Programming II.md",
@@ -293,7 +293,6 @@
     "ADS/image/AVL的LR.png",
     "ADS/image/lec7/最优二叉搜索树.png",
     "Pasted image 20251028102436.png",
-    "ADS/image/lec7/解时间复杂度的递归树法.png",
-    "2025-10-28.md"
+    "ADS/image/lec7/解时间复杂度的递归树法.png"
   ]
 }
