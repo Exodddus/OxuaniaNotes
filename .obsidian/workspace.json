@@ -11,14 +11,14 @@
             "id": "99a480580bd0e9ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "动手学深度学习_李沐/卷积神经网络.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "卷积神经网络"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -206,6 +206,18 @@
   },
   "active": "99a480580bd0e9ff",
   "lastOpenFiles": [
+    "强化学习/动手学强化学习/第2章 多臂老虎机.md",
+    "强化学习/动手学强化学习/第4章 动态规划.md",
+    "conflict-files-obsidian-git.md",
+    "动手学深度学习_李沐/卷积神经网络.md",
+    "深度学习/动手学深度学习_李沐/卷积神经网络.md",
+    "深度学习/动手学深度学习_李沐",
+    "深度学习",
+    "强化学习/动手学强化学习/image/CliffWalking.jpg",
+    "强化学习/动手学强化学习/第3章 马尔可夫过程.md",
+    "强化学习/动手学强化学习/image",
+    "强化学习/动手学强化学习",
+    "强化学习",
     "读论文/具身/ODYSSEY 2.9.md",
     "读论文/具身/A Survey on VLA for Embodied AI.md",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210122116.png",
@@ -216,12 +228,9 @@
     "读论文/具身/image",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210114401.png",
     "读论文/具身/VLingNav 2.5.md",
-    "动手学深度学习_李沐/卷积神经网络.md",
-    "conflict-files-obsidian-git.md",
     "动手学深度学习_李沐",
     "OOP/Lec12 Iterators.md",
     "读论文/具身",
-    "读论文",
     "OOP/期末复习笔记.md",
     "ADS/秋6周：Devide & Conquer 分治.md",
     "OOP/Lec7 Polymorphism.md",
@@ -233,8 +242,6 @@
     "ADS/秋5周：Backtracking 回溯算法.md",
     "ADS/冬1周：Greedy Algorithm.md",
     "欢迎.md",
-    "未命名 1.base",
-    "未命名 2.base",
     "ADS/秋2周：AVL树 & Splay树 & 摊还分析.md",
     "ADS/秋1周：算法概论 & AVL树.md",
     "MachineLearning_DavidWoodruff/Lec3 Linear Programming II.md",
@@ -244,12 +251,6 @@
     "Pasted image 20251028102436.png",
     "ADS/image/lec7/解时间复杂度的递归树法.png",
     "ADS/image/lec7/动规矩阵乘法顺序.png",
-    "2025-10-28.md",
-    "ADS/image/lec7/时间复杂度递推代换法.png",
-    "MachineLearning_DavidWoodruff/image/lec2",
-    "ADS/image/lec7",
-    "ADS/秋4周：Leftist Heaps & Skew Heaps & Binomial Heap.md",
-    "ADS/秋3周：红黑树 & B+树.md",
-    "语言学/语料库与语言数据处理/9.17 概论.md"
+    "2025-10-28.md"
   ]
 }
