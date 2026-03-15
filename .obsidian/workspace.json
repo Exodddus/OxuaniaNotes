@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "强化学习/动手学强化学习/第4章 动态规划.md",
+                "file": "通识课/二十世纪法国知识分子.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第4章 动态规划"
+              "title": "二十世纪法国知识分子"
             }
           },
           {
-            "id": "064693e1d71aedd7",
+            "id": "0444b50154832ddb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/llm-course/LLM Architecture.md",
+                "file": "DB/Lec 2 Relational Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLM Architecture"
+              "title": "Lec 2 Relational Model"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#随机过程",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1395571581d57c08",
@@ -220,34 +219,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "064693e1d71aedd7",
+  "active": "0444b50154832ddb",
   "lastOpenFiles": [
-    "强化学习/动手学强化学习/第4章 动态规划.md",
-    "LLM/llm-course/LLM Architecture.md",
-    "LLM",
-    "深度学习/动手学深度学习_李沐/数据增强.md",
-    "LLM/llm-course",
-    "强化学习/动手学强化学习/第2章 多臂老虎机.md",
-    "conflict-files-obsidian-git.md",
-    "动手学深度学习_李沐/卷积神经网络.md",
-    "深度学习/动手学深度学习_李沐/卷积神经网络.md",
-    "深度学习/动手学深度学习_李沐",
-    "深度学习",
-    "强化学习/动手学强化学习/image/CliffWalking.jpg",
+    "通识课/二十世纪法国知识分子.md",
+    "DB/Lec 2 Relational Model.md",
+    "DB",
+    "通识课/image/dcc2b053ac8365972697d1f2312f6211.jpg",
+    "通识课/image/9e18f028f4f9bc10340a18a7c18726ee.jpg",
+    "通识课/image/6f99e15e2ffbf0eff304d0124bf570fc.jpg",
+    "通识课/image",
+    "读论文/具身/A Survey on VLA for Embodied AI.md",
+    "通识课",
+    "读论文/具身/ODYSSEY 2.9.md",
     "强化学习/动手学强化学习/第3章 马尔可夫过程.md",
+    "LLM/llm-course/LLM Architecture.md",
+    "强化学习/动手学强化学习/第4章 动态规划.md",
+    "LLM/llm-course",
+    "LLM",
+    "深度学习",
     "强化学习/动手学强化学习/image",
+    "强化学习/动手学强化学习/image/CliffWalking.jpg",
+    "Pasted image 20260213161311.png",
+    "强化学习/动手学强化学习/第2章 多臂老虎机.md",
+    "读论文/具身/Being-H0.5.md",
     "强化学习/动手学强化学习",
     "强化学习",
-    "读论文/具身/ODYSSEY 2.9.md",
-    "读论文/具身/A Survey on VLA for Embodied AI.md",
+    "深度学习/动手学深度学习_李沐/卷积神经网络.md",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210122116.png",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210122052.png",
     "未命名.base",
-    "读论文/具身/Being-H0.5.md",
-    "读论文/具身/image/A Survey on VLA",
-    "读论文/具身/image",
     "读论文/具身/image/A Survey on VLA/Pasted image 20260210114401.png",
     "读论文/具身/VLingNav 2.5.md",
+    "conflict-files-obsidian-git.md",
     "OOP/Lec12 Iterators.md",
     "OOP/期末复习笔记.md",
     "ADS/秋6周：Devide & Conquer 分治.md",
@@ -263,10 +266,6 @@
     "ADS/秋2周：AVL树 & Splay树 & 摊还分析.md",
     "ADS/秋1周：算法概论 & AVL树.md",
     "MachineLearning_DavidWoodruff/Lec3 Linear Programming II.md",
-    "ADS/image/AVL的LR.png",
-    "ADS/image/lec7/最优二叉搜索树.png",
-    "Pasted image 20251028102436.png",
-    "ADS/image/lec7/解时间复杂度的递归树法.png",
-    "ADS/image/lec7/动规矩阵乘法顺序.png"
+    "ADS/image/AVL的LR.png"
   ]
 }
