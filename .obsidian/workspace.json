@@ -11,17 +11,40 @@
             "id": "49b0e9f18944d768",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "NLP_TSL/NLPbyWYR/NLGAndNMT.md",
-                "mode": "source",
-                "source": false
+                "file": "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326204013.png"
               },
-              "icon": "lucide-file",
-              "title": "NLGAndNMT"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260326204013"
+            }
+          },
+          {
+            "id": "9b23317fdcd82843",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326203122.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260326203122"
+            }
+          },
+          {
+            "id": "ba4d03df197fd262",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326202943.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260326202943"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,19 +227,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49b0e9f18944d768",
+  "active": "b33e80bd9e9c3885",
   "lastOpenFiles": [
-    "NLP_TSL/NLPbyWYR/nlp.md",
+    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326203122.png",
+    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326204013.png",
+    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326202943.png",
+    "大语言模型/llm-course/LLM Architecture.md",
+    "技术工具/Git.md",
     "NLP_TSL/NLPbyWYR/NLGAndNMT.md",
+    "NLP_TSL/NLPbyWYR/nlp.md",
     "NLP_TSL/NLPbyWYR/LLMTraining.md",
     "DB/Lec2 Relational Model.md",
     "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.md",
-    "Pasted image 20260326204013.png",
-    "Pasted image 20260326203122.png",
-    "Pasted image 20260326202943.png",
     "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326202758.png",
     "DB/Lec3 SQL.md",
-    "大语言模型/llm-course/LLM Architecture.md",
     "NLP_TSL/Lec3 Word Embedding.md",
     "NLP_TSL/image/lec3/Pasted image 20260317112007.png",
     "NLP_TSL/image/lec3/image-20250307153345923.png",
@@ -226,7 +250,6 @@
     "NLP_TSL/image/lec3/image-20250307150456076.png",
     "NLP_TSL/WordEmbedding.assets",
     "NLP_TSL/NLPbyWYR/Lec3 WordEmbedding.md",
-    "技术工具/Git.md",
     "NLP_TSL/NLPbyWYR/WordEmbedding.assets",
     "NLP_TSL/NLPbyWYR/Transformer.md",
     "NLP_TSL/NLPbyWYR/Transformer.assets",
