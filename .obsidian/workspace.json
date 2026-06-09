@@ -4,47 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "e59bb9ed70a4a603",
+        "id": "ba38dcdf274036e6",
         "type": "tabs",
         "children": [
           {
-            "id": "49b0e9f18944d768",
+            "id": "85b0599e5fc526e2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326204013.png"
+                "file": "DB/Lec7 Relational Dataset Design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260326204013"
+              "icon": "lucide-file",
+              "title": "Lec7 Relational Dataset Design"
             }
           },
           {
-            "id": "9b23317fdcd82843",
+            "id": "e707461296596d46",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326203122.png"
+                "file": "DB/Lec 9 Physical Storage System.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260326203122"
+              "icon": "lucide-file",
+              "title": "Lec 9 Physical Storage System"
             }
           },
           {
-            "id": "ba4d03df197fd262",
+            "id": "dafb56edc9c67995",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326202943.png"
+                "file": "NLP_TSL/Lec9 Model Compression.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260326202943"
+              "icon": "lucide-file",
+              "title": "Lec9 Model Compression"
+            }
+          },
+          {
+            "id": "42a64e91580791b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/Lec9 Physical Storage System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lec9 Physical Storage System"
+            }
+          },
+          {
+            "id": "11c4ef65ec4d4adf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DB/Lec14 Transaction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lec14 Transaction"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#随机过程",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NLP_TSL/Lec3 Word Embedding.md",
+                "file": "深度学习/动手学深度学习_李沐/Transformer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Lec3 Word Embedding 的大纲"
+              "title": "Transformer 的大纲"
             }
           },
           {
@@ -227,52 +261,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b33e80bd9e9c3885",
+  "active": "11c4ef65ec4d4adf",
   "lastOpenFiles": [
-    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326203122.png",
-    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326204013.png",
-    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326202943.png",
-    "大语言模型/llm-course/LLM Architecture.md",
-    "技术工具/Git.md",
-    "NLP_TSL/NLPbyWYR/NLGAndNMT.md",
-    "NLP_TSL/NLPbyWYR/nlp.md",
+    "NLP_TSL/image/Pasted image 20260525093404.png",
+    "NLP_TSL/image/Pasted image 20260512111555.png",
+    "NLP_TSL/image/Pasted image 20260512103607.png",
+    "DB/Lec14 Transaction.md",
+    "CAbyQZY/5.md",
+    "DB/Lec13 Query Optimization.md",
+    "DB/Lec9 Physical Storage System.md",
+    "DB/Lec10 Data Storage Structure.md",
+    "NLP_TSL/Lec10 Deep Reinforcement Learning.md",
+    "未命名 1.base",
+    "未命名.base",
+    "具身智能/Yinghao Xu 5.25 讲座.md",
+    "具身智能",
+    "NLP_TSL/Lec9 Model Compression.md",
+    "DB/Lec7 Relational Dataset Design.md",
+    "INFORMATION/HobbitQia 分享会.md",
+    "INFORMATION",
+    "NLP_TSL/image/Pasted image 20260428104354.png",
+    "NLP_TSL/image/Pasted image 20260428105952.png",
+    "NLP_TSL/image/Pasted image 20260428105414.png",
+    "NLP_TSL/image/Pasted image 20260428112317.png",
+    "大语言模型/机器学习2026 李宏毅/assets/Pasted image 20260424203954.png",
+    "大语言模型/机器学习2026 李宏毅/assets/Pasted image 20260424205705.png",
+    "大语言模型/机器学习2026 李宏毅/assets/Pasted image 20260424203814.png",
+    "NLP_TSL/Lec8 LLM Training.md",
+    "大语言模型/机器学习2026 李宏毅/AI Agent.md",
+    "大语言模型/机器学习2026 李宏毅/Context Engineering.md",
+    "大语言模型/机器学习2026 李宏毅/OpenClaw.md",
     "NLP_TSL/NLPbyWYR/LLMTraining.md",
-    "DB/Lec2 Relational Model.md",
-    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.md",
-    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets/Pasted image 20260326202758.png",
-    "DB/Lec3 SQL.md",
-    "NLP_TSL/Lec3 Word Embedding.md",
-    "NLP_TSL/image/lec3/Pasted image 20260317112007.png",
-    "NLP_TSL/image/lec3/image-20250307153345923.png",
-    "NLP_TSL/image/lec3/image-20250307153230413.png",
-    "NLP_TSL/image/lec3/image-20250307152301563.png",
-    "NLP_TSL/image/lec3/image-20250307150558713.png",
-    "NLP_TSL/image/lec3/image-20250307150456076.png",
-    "NLP_TSL/WordEmbedding.assets",
-    "NLP_TSL/NLPbyWYR/Lec3 WordEmbedding.md",
-    "NLP_TSL/NLPbyWYR/WordEmbedding.assets",
     "NLP_TSL/NLPbyWYR/Transformer.md",
-    "NLP_TSL/NLPbyWYR/Transformer.assets",
-    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.assets",
-    "NLP_TSL/NLPbyWYR/nlp.assets",
-    "NLP_TSL/NLPbyWYR/NLGAndNMT.assets",
-    "NLP_TSL/NLPbyWYR/DeepLearningBasics.md",
-    "NLP_TSL/NLPbyWYR/DeepLearningBasics.assets",
-    "NLP_TSL/NLPbyWYR/ConvolutionalNeuralNetworks.md",
-    "NLP_TSL/NLPbyWYR/ConvolutionalNeuralNetworks.assets",
     "NLP_TSL/NLPbyWYR/Attention.md",
-    "NLP_TSL/NLPbyWYR/Attention.assets",
-    "NLP_TSL/NLPbyWYR",
-    "nlp/WordEmbedding.md",
-    "nlp/Transformer.md",
-    "nlp/RecurrentNeuralNetworks.md",
-    "nlp/nlp.md",
-    "nlp/NLGAndNMT.md",
-    "nlp/LLMTraining.md",
-    "nlp/DeepLearningBasics.md",
-    "nlp/ConvolutionalNeuralNetworks.md",
-    "nlp/Attention.md",
-    "CAbyQZY/2 Memory Hierarchy Design.md",
-    "CAbyQZY/1.md"
+    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.md",
+    "深度学习/动手学深度学习_李沐/Transformer.md",
+    "读论文/具身/InternVLA-N1 & Ground Slow, Move Fast.md",
+    "深度学习/动手学深度学习_李沐/assets",
+    "CAbyQZY/3.md",
+    "读论文/视觉/VGGT.md",
+    "读论文/视觉",
+    "读论文/具身/ODYSSEY 2.9.md",
+    "读论文/具身/Being-H0.5.md",
+    "读论文/具身/VLingNav 2.5.md",
+    "大语言模型/机器学习2026 李宏毅",
+    "大语言模型/LLM Science",
+    "大语言模型/机器学习2026 李宏毅/assets",
+    "大语言模型/LLM Application"
   ]
 }
