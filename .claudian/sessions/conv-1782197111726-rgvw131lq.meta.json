@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782197111726-rgvw131lq",
+  "providerId": "claude",
+  "title": "Identify AI model query",
+  "titleGenerationStatus": "success",
+  "createdAt": 1782197111726,
+  "updatedAt": 1782197156107,
+  "lastResponseAt": 1782197156107,
+  "sessionId": "93c386c4-abeb-4b88-9ce7-f0923314e94a",
+  "providerState": {
+    "providerSessionId": "93c386c4-abeb-4b88-9ce7-f0923314e94a"
+  },
+  "currentNote": "数据库/Lec2 Relational Model.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 19255,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 19255,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

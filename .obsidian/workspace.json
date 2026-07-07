@@ -4,81 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "ba38dcdf274036e6",
+        "id": "761436a1e5823c89",
         "type": "tabs",
         "children": [
           {
-            "id": "85b0599e5fc526e2",
+            "id": "e23dcb5b8a9c419f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/Lec7 Relational Dataset Design.md",
+                "file": "读论文/具身/MAESTRO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lec7 Relational Dataset Design"
+              "title": "MAESTRO"
             }
           },
           {
-            "id": "e707461296596d46",
+            "id": "e4d05343c28d0543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DB/Lec 9 Physical Storage System.md",
+                "file": "LeiJiahui Meeting1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lec 9 Physical Storage System"
+              "title": "LeiJiahui Meeting1"
             }
           },
           {
-            "id": "dafb56edc9c67995",
+            "id": "2c2894b4faa9f131",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NLP_TSL/Lec9 Model Compression.md",
+                "file": "强化学习/强化学习短学期/强化学习短学期.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lec9 Model Compression"
-            }
-          },
-          {
-            "id": "42a64e91580791b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/Lec9 Physical Storage System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lec9 Physical Storage System"
-            }
-          },
-          {
-            "id": "11c4ef65ec4d4adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DB/Lec14 Transaction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lec14 Transaction"
+              "title": "强化学习短学期"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADS/秋6周：Devide & Conquer 分治.md",
+                "file": "数据库/Lec7 Relational Dataset Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "秋6周：Devide & Conquer 分治 的出链列表"
+              "title": "Lec7 Relational Dataset Design 的出链列表"
             }
           },
           {
@@ -199,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/动手学深度学习_李沐/Transformer.md",
+                "file": "强化学习/强化学习短学期/强化学习短学期.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Transformer 的大纲"
+              "title": "强化学习短学期 的大纲"
             }
           },
           {
@@ -237,9 +209,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "0842d44d4baf68dc",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -258,55 +240,57 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "11c4ef65ec4d4adf",
+  "active": "2c2894b4faa9f131",
   "lastOpenFiles": [
-    "NLP_TSL/image/Pasted image 20260525093404.png",
-    "NLP_TSL/image/Pasted image 20260512111555.png",
-    "NLP_TSL/image/Pasted image 20260512103607.png",
-    "DB/Lec14 Transaction.md",
-    "CAbyQZY/5.md",
-    "DB/Lec13 Query Optimization.md",
-    "DB/Lec9 Physical Storage System.md",
-    "DB/Lec10 Data Storage Structure.md",
-    "NLP_TSL/Lec10 Deep Reinforcement Learning.md",
-    "未命名 1.base",
+    "强化学习/强化学习短学期",
+    "LeiJiahui Meeting1.md",
+    "强化学习/强化学习短学期/强化学习短学期.md",
+    "读论文/具身/MAESTRO.md",
+    "读论文/具身/CaP-X.md",
+    "读论文/具身/ARM4R.md",
+    "读论文/具身/D4RT.md",
+    "读论文/具身/ArtiCraft.md",
+    "读论文/具身/ManipTrans.md",
+    "读论文/具身/Any2Track.md",
+    "读论文/具身/BeyondMimic.md",
     "未命名.base",
-    "具身智能/Yinghao Xu 5.25 讲座.md",
-    "具身智能",
-    "NLP_TSL/Lec9 Model Compression.md",
-    "DB/Lec7 Relational Dataset Design.md",
-    "INFORMATION/HobbitQia 分享会.md",
-    "INFORMATION",
-    "NLP_TSL/image/Pasted image 20260428104354.png",
-    "NLP_TSL/image/Pasted image 20260428105952.png",
-    "NLP_TSL/image/Pasted image 20260428105414.png",
-    "NLP_TSL/image/Pasted image 20260428112317.png",
-    "大语言模型/机器学习2026 李宏毅/assets/Pasted image 20260424203954.png",
-    "大语言模型/机器学习2026 李宏毅/assets/Pasted image 20260424205705.png",
-    "大语言模型/机器学习2026 李宏毅/assets/Pasted image 20260424203814.png",
-    "NLP_TSL/Lec8 LLM Training.md",
-    "大语言模型/机器学习2026 李宏毅/AI Agent.md",
-    "大语言模型/机器学习2026 李宏毅/Context Engineering.md",
-    "大语言模型/机器学习2026 李宏毅/OpenClaw.md",
-    "NLP_TSL/NLPbyWYR/LLMTraining.md",
-    "NLP_TSL/NLPbyWYR/Transformer.md",
-    "NLP_TSL/NLPbyWYR/Attention.md",
-    "NLP_TSL/NLPbyWYR/RecurrentNeuralNetworks.md",
-    "深度学习/动手学深度学习_李沐/Transformer.md",
-    "读论文/具身/InternVLA-N1 & Ground Slow, Move Fast.md",
-    "深度学习/动手学深度学习_李沐/assets",
-    "CAbyQZY/3.md",
-    "读论文/视觉/VGGT.md",
-    "读论文/视觉",
-    "读论文/具身/ODYSSEY 2.9.md",
-    "读论文/具身/Being-H0.5.md",
-    "读论文/具身/VLingNav 2.5.md",
-    "大语言模型/机器学习2026 李宏毅",
-    "大语言模型/LLM Science",
-    "大语言模型/机器学习2026 李宏毅/assets",
-    "大语言模型/LLM Application"
+    "图像信息处理/DIP 期末.md",
+    "图像信息处理/2024 秋冬 图像信息处理.pdf",
+    "图像信息处理/2024 秋冬 图像信息处理(1).pdf",
+    "图像信息处理",
+    "图像信息处理/7.md",
+    "图像信息处理/8.md",
+    "图像信息处理/index.md",
+    "图像信息处理/1.md",
+    "tmp/22-23期末带解析答案.md",
+    "tmp/24-25期末官方答案.md",
+    "图像信息处理/images/C7/9.png",
+    "图像信息处理/images/C7/8.png",
+    "图像信息处理/images/C7/7.png",
+    "图像信息处理/images/C7/6.png",
+    "图像信息处理/images/C7/56.png",
+    "图像信息处理/images/C7/55.png",
+    "图像信息处理/images/C7/54.png",
+    "图像信息处理/images/C7/53.png",
+    "图像信息处理/images/C7/52.png",
+    "图像信息处理/images/C7/51.png",
+    "图像信息处理/images/C7",
+    "图像信息处理/images/C8",
+    "图像信息处理/images/C6",
+    "图像信息处理/images/C5",
+    "图像信息处理/images/C4",
+    "图像信息处理/images/C3",
+    "tmp/notebook_dip_sparse/docs/software/dip/8.md",
+    "tmp/notebook_dip_sparse/docs/software/dip/7.md",
+    "tmp/notebook_dip_sparse/docs/software/dip/6.md",
+    "tmp/notebook_dip_sparse/docs/software/dip/5.md",
+    "tmp/notebook_dip_sparse/docs/software/dip/4.md",
+    "tmp/notebook_dip_sparse/docs/software/dip/3.md",
+    "tmp/notebook_dip_sparse/docs/software/dip/2.md",
+    "tmp/notebook_dip_sparse/docs/software/dip/1.md"
   ]
 }
